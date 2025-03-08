@@ -1,0 +1,35 @@
+*{
+    font-family: sans-serif;
+}
+h2{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+}
+h3{
+    color: yellow;
+}
+#load-ul{
+    background-color: black;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: justify;
+    color: white;
+    display: none;
+    width: 200px;
+    height: 200px;
+}
+#loading-items-btn{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 1px;
+    border: none;
+    margin-bottom: 10px;
+}
+#loading-items-btn:hover{
+    cursor: pointer;
+    background-color: darkgreen;
+}
