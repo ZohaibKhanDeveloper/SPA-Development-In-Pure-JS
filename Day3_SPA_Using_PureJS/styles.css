@@ -1,0 +1,27 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+}
+button{
+    background-color: green;
+    border-radius: 2px;
+    padding:10px;
+    border: none;
+    color: white;
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color: darkgreen;
+    cursor: pointer;
+}
+#remove-dynamic-box{
+    background-color: red;
+}
+#remove-dynamic-box:hover{
+    background-color: rgb(205, 0, 0);
+}
