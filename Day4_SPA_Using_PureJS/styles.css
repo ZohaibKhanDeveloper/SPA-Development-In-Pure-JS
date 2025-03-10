@@ -1,0 +1,39 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    text-align: center;
+    background-color: #222;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.navbar li button{
+    background: none;
+    border: none;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+    display: inline;
+    margin: 0px 20px 0px 20px;
+}
+.navbar li button:hover{
+    text-shadow: 0px 0px 10px;
+}
+.navbar li{
+    list-style-type: none;
+    display: inline;
+}
+.tabs{
+    background-color: #555;
+    color: white;
+    padding: 30px;
+    width: 70%;
+    text-align: justify;
+    margin-top: 20px;
+    border-radius: 0px 40px 0px 40px;
+}
+.tabs h1{
+    color: gold;
+}
